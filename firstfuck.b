@@ -1,5 +1,5 @@
-first value: ++++++[>++++++++<-],>[<->-]
-second value: ++++++[>++++++++<-],>[<->-]
+first value: ++++++[>++++++++<-],>[<->-]      readkey
+second value: ++++++[>++++++++<-],>[<->-]     readkey
 <
 [-<+>]<                                       addition
 [-<->]<                                       subtraction
